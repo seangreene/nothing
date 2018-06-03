@@ -18,10 +18,10 @@ description: >
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://wildwoodbugle.com" # the base hostname & protocol for your site
-cover: "/assets/meadows.jpg"
-logo: "/assets/acorn.png"
+cover: "assets/meadows.jpg"
+logo: "assets/acorn.png"
 
 # Build settings
 markdown: kramdown
@@ -186,13 +186,13 @@ social:
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
-    fb_image: "/assets/logo.png"
-    fb_image_width: 612
-    fb_image_height: 605
-    fb_image_type: "image/png"
+    fb_image: "/assets/meadows.jpg"
+    fb_image_width: 1173
+    fb_image_height: 880
+    fb_image_type: "image/jpg"
 
-    twitter_image: "/assets/logo.png"
+    twitter_image: "/assets/meadows.jpg"
 
-    os_repo: "https://github.com/bencentra/centrarium.com"
-    os_rcs_type: "git"
-    os_src: "git@github.com:bencentra/centrarium.com.git"
+    # os_repo: "https://github.com/bencentra/centrarium.com"
+    # os_rcs_type: "git"
+    # os_src: "git@github.com:bencentra/centrarium.com.git"
