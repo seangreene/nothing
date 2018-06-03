@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Campers Slay Dragon, Mysterious Wildwood Wizard Escapes"
-date:   2016-07-02 08:43:59
+date:   2017-07-15 08:43:59
 author: 
 categories: Magic
 ---
