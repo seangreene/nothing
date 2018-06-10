@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Local Mischief Makers Identified: Gnomes!"
+title:  "Local Mischief Makers Identified as Gnomes!"
 date:   2014-08-10 08:43:59
 author: The Bugler
 categories: "Anthroplogy", "Magic"

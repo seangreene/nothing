@@ -4,10 +4,10 @@
     <title>The Wildwood Bugle</title>
     <description>News and views from your favorite park.
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 10 Jun 2018 14:09:28 -0700</pubDate>
-    <lastBuildDate>Sun, 10 Jun 2018 14:09:28 -0700</lastBuildDate>
+    <link>http://wildwoodbugle.com/</link>
+    <atom:link href="http://wildwoodbugle.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 10 Jun 2018 14:20:48 -0700</pubDate>
+    <lastBuildDate>Sun, 10 Jun 2018 14:20:48 -0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -30,9 +30,9 @@
 
 &lt;p&gt;To prevent further mayhem, wanted signs were posted at trail heads to warn hikers and residents.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 10 Jun 2018 14:09:28 -0700</pubDate>
-        <link>http://localhost:4000/2018/06/10/2014-08-10-gnomes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/06/10/2014-08-10-gnomes.html</guid>
+        <pubDate>Sun, 10 Jun 2018 14:20:48 -0700</pubDate>
+        <link>http://wildwoodbugle.com/2018/06/10/2014-08-10-gnomes.html</link>
+        <guid isPermaLink="true">http://wildwoodbugle.com/2018/06/10/2014-08-10-gnomes.html</guid>
         
         
       </item>
@@ -50,8 +50,8 @@
 &lt;p&gt;Needless to say, the locals and scientists alike are hopeful for another fluffin filled summer.&lt;/p&gt;
 </description>
         <pubDate>Tue, 05 Jun 2018 01:43:59 -0700</pubDate>
-        <link>http://localhost:4000/wildlife/2018/06/05/fluffins.html</link>
-        <guid isPermaLink="true">http://localhost:4000/wildlife/2018/06/05/fluffins.html</guid>
+        <link>http://wildwoodbugle.com/wildlife/2018/06/05/fluffins.html</link>
+        <guid isPermaLink="true">http://wildwoodbugle.com/wildlife/2018/06/05/fluffins.html</guid>
         
         
         <category>Wildlife</category>
@@ -77,8 +77,8 @@
 &lt;p&gt;It seems it’s up to the individual whether this character is good or evil.&lt;/p&gt;
 </description>
         <pubDate>Mon, 18 Dec 2017 00:43:59 -0800</pubDate>
-        <link>http://localhost:4000/magic/2017/12/18/wizard-hero-menace.html</link>
-        <guid isPermaLink="true">http://localhost:4000/magic/2017/12/18/wizard-hero-menace.html</guid>
+        <link>http://wildwoodbugle.com/magic/2017/12/18/wizard-hero-menace.html</link>
+        <guid isPermaLink="true">http://wildwoodbugle.com/magic/2017/12/18/wizard-hero-menace.html</guid>
         
         
         <category>Magic</category>
@@ -102,8 +102,8 @@
 &lt;p&gt;It remains to be seen whether the spiders have increased their range in the park.&lt;/p&gt;
 </description>
         <pubDate>Sat, 19 Aug 2017 01:43:59 -0700</pubDate>
-        <link>http://localhost:4000/wildlife/2017/08/19/spider-shed.html</link>
-        <guid isPermaLink="true">http://localhost:4000/wildlife/2017/08/19/spider-shed.html</guid>
+        <link>http://wildwoodbugle.com/wildlife/2017/08/19/spider-shed.html</link>
+        <guid isPermaLink="true">http://wildwoodbugle.com/wildlife/2017/08/19/spider-shed.html</guid>
         
         
         <category>Wildlife</category>
@@ -121,8 +121,8 @@
 &lt;p&gt;But thanks to his ability to temporarily possess the minds of mortals, the wizard was able to elude capture. For now, at least, his true identity and motives remain unknown.&lt;/p&gt;
 </description>
         <pubDate>Thu, 20 Jul 2017 01:43:59 -0700</pubDate>
-        <link>http://localhost:4000/magic/2017/07/20/dragon-wizard.html</link>
-        <guid isPermaLink="true">http://localhost:4000/magic/2017/07/20/dragon-wizard.html</guid>
+        <link>http://wildwoodbugle.com/magic/2017/07/20/dragon-wizard.html</link>
+        <guid isPermaLink="true">http://wildwoodbugle.com/magic/2017/07/20/dragon-wizard.html</guid>
         
         
         <category>Magic</category>
@@ -146,8 +146,8 @@
 &lt;p&gt;The world may have to wait longer yet for definitive proof of the existence of mermaids.&lt;/p&gt;
 </description>
         <pubDate>Thu, 07 Jul 2016 01:43:59 -0700</pubDate>
-        <link>http://localhost:4000/anthroplogy/2016/07/07/mermaid-fossil.html</link>
-        <guid isPermaLink="true">http://localhost:4000/anthroplogy/2016/07/07/mermaid-fossil.html</guid>
+        <link>http://wildwoodbugle.com/anthroplogy/2016/07/07/mermaid-fossil.html</link>
+        <guid isPermaLink="true">http://wildwoodbugle.com/anthroplogy/2016/07/07/mermaid-fossil.html</guid>
         
         
         <category>Anthroplogy</category>
@@ -163,8 +163,8 @@
 &lt;/figure&gt;
 </description>
         <pubDate>Sat, 25 Jun 2016 01:43:59 -0700</pubDate>
-        <link>http://localhost:4000/neighborhood/2016/06/25/missing-chicken.html</link>
-        <guid isPermaLink="true">http://localhost:4000/neighborhood/2016/06/25/missing-chicken.html</guid>
+        <link>http://wildwoodbugle.com/neighborhood/2016/06/25/missing-chicken.html</link>
+        <guid isPermaLink="true">http://wildwoodbugle.com/neighborhood/2016/06/25/missing-chicken.html</guid>
         
         
         <category>Neighborhood</category>
@@ -198,8 +198,8 @@
 &lt;/figure&gt;
 </description>
         <pubDate>Thu, 27 Aug 2015 01:43:59 -0700</pubDate>
-        <link>http://localhost:4000/wildlife/2015/08/27/space-squirrels.html</link>
-        <guid isPermaLink="true">http://localhost:4000/wildlife/2015/08/27/space-squirrels.html</guid>
+        <link>http://wildwoodbugle.com/wildlife/2015/08/27/space-squirrels.html</link>
+        <guid isPermaLink="true">http://wildwoodbugle.com/wildlife/2015/08/27/space-squirrels.html</guid>
         
         
         <category>Wildlife</category>
@@ -210,7 +210,7 @@
         <title>Hikers Spot Strange 'Horseman' in Wildwood</title>
         <description>&lt;p&gt;Two hikers reported seeing a “monster” in Wildwood Regional Park on Thursday.&lt;/p&gt;
 
-&lt;p&gt;Victor Stroganoff and Greta von Stassleberry were out walking the trails before Fourth of July fireworks when they spotted what they described as a man with the head of a horse.&lt;/p&gt;
+&lt;p&gt;Brendan Picklestraub and Greta von Stassleberry were out walking the trails before Fourth of July fireworks when they spotted what they described as a man with the head of a horse.&lt;/p&gt;
 
 &lt;p&gt;“I didn’t get a good look at it, but it was about six feet tall and had a mane like a horse and big creepy eyes,” Stroganoff said. “This was no deer.”&lt;/p&gt;
 
@@ -222,8 +222,8 @@
 “We are making every effort to retrieve the experiment,” an Amgen spokesman said.&lt;/p&gt;
 </description>
         <pubDate>Thu, 05 Jul 2012 01:43:59 -0700</pubDate>
-        <link>http://localhost:4000/wildlife/2012/07/05/horseman.html</link>
-        <guid isPermaLink="true">http://localhost:4000/wildlife/2012/07/05/horseman.html</guid>
+        <link>http://wildwoodbugle.com/wildlife/2012/07/05/horseman.html</link>
+        <guid isPermaLink="true">http://wildwoodbugle.com/wildlife/2012/07/05/horseman.html</guid>
         
         
         <category>Wildlife</category>
