@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Giant Spider Found Living Under Shed"
+title:  "Giant Spider Found Living Under Park Shed"
 date:   2017-08-19 08:43:59
 author: The Bugler
 categories: Wildlife
@@ -16,6 +16,6 @@ Several of these spiders had reportedly created a living space under a shed in t
 
 For several months, there were no signs of the spiders, but this reporter kept digging. 
 
-Rangers were recently seen clearing up a section of trial near Meadows Cave of large string like webbing stretched across the trial. The trail was shut down for the day and the debris discarded. The rangers declined to comment on the activity. 
+Volunteers were recently seen clearing up a section of trial near Meadows Cave of large string like webbing stretched across the trial. The trail was unusually crowded that morning, as dozens of people worked to discard the debris.
 
 It remains to be seen whether the spiders have increased their range in the park.
