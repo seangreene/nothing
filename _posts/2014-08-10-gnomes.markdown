@@ -6,6 +6,10 @@ author:
 categories: Anthroplogy
 ---
 
+<figure class="center">
+	<img src="/assets/img/gnometent.jpg"/>
+</figure>
+
 For weeks, <em>The Bugle</em> has received reports that small, almost insignificant, pieces of property have been going missing around the area. 
 
 “My favorite gardening equipment went missing from my backyard recently, two small trowels and a tiny shovel,” said one resident, who did not give her name. 
