@@ -2,14 +2,20 @@
 layout: post
 title:  "Giant Spider Found Living Under Shed"
 date:   2017-08-19 08:43:59
-author: 
+author: The Bugler
 categories: Wildlife
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Rabbit populations declined significantly year with the recent introduction of a new species of giant spider discovered in the park this year, ‎<em>Hogna persulensis</em>. 
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+This species is closely related to the California wolf spider, except it is a darker shade of brown and is reportedly several times larger. Scientists have found molted skin measuring more than two feet in length.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+Several of these spiders had reportedly created a living space under a shed in the park a year ago, but it appears they have since moved out.
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+“Every morning I walk Rex through the park, but I haven’t seen any since last August, not even a web,” said local dog walker George Jenkins.
+
+For several months, there were no signs of the spiders, but this reporter kept digging. 
+
+Rangers were recently seen clearing up a section of trial near Meadows Cave of large string like webbing stretched across the trial. The trail was shut down for the day and the debris discarded. The rangers declined to comment on the activity. 
+
+It remains to be seen whether the spiders have increased their range in the park.

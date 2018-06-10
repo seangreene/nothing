@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Gnomes' Cave Heist Busted by Meddling Kids"
+title:  "Local Mischief Makers Identified: Gnomes!"
 date:   2014-08-10 08:43:59
-author: 
+author: The Bugler
 categories: Anthroplogy
 ---
 
@@ -10,7 +10,7 @@ categories: Anthroplogy
 	<img src="/assets/img/gnometent.jpg"/>
 </figure>
 
-For weeks, <em>The Bugle</em> has received reports that small, almost insignificant, pieces of property have been going missing around the area. 
+For weeks, the <em>Bugle</em> has received reports that small, almost insignificant, pieces of property have been going missing around the area. 
 
 “My favorite gardening equipment went missing from my backyard recently, two small trowels and a tiny shovel,” said one resident, who did not give her name. 
 

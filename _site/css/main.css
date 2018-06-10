@@ -148,7 +148,11 @@ pre code.hljs { font-size: 0.8333333333em; }
 .page-content .site-header-container { color: #fff; text-shadow: 0 2px 1px rgba(0, 0, 0, 0.33); background-color: #e28c54; }
 .page-content .site-header-container .site-header .title { font-size: 2.985984em; }
 .page-content .site-header-container .site-header .subtitle { font-style: italic; font-size: 1.2em; }
-.page-content img { display: block; margin: auto; width: 90%; }
+.page-content figure.leadart { width: 100%; margin: 0 0 15px 0; }
+.page-content figure.center { width: 90%; margin: 15px auto; }
+.page-content figure.small { max-width: 50%; }
+.page-content figure.right { float: right; margin: 15px 0 15px 15px; }
+.page-content img { display: block; margin: 0; width: 100%; }
 .page-content .post ul { margin-bottom: 1em; }
 .page-content .post .post-header-container .scrim { padding: 2em 1em 1em 1em; }
 .page-content .post .post-meta { padding-bottom: 1em; }
