@@ -6,7 +6,7 @@ author: The Bugler
 categories: Magic
 ---
 
-<figure class="center">
+<figure class="leadart">
 	<img src="/assets/img/gnometent.jpg"/>
 </figure>
 

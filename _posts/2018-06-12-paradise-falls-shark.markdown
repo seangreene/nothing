@@ -7,7 +7,7 @@ categories: Wildlife
 ---
 
 <figure class="leadart">
-	<img src="assets/img/paradisefallsshark.jpg" />
+	<img src="/assets/img/paradisefallsshark.jpg" />
 </figure>
 
 PARADISE FALLS &mdash; For years now, hikers have reported seeing shark-like fish in the deeper waters of Wildwood. 
